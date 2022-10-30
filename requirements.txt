@@ -1,0 +1,10 @@
+numpy==1.23.3
+opencv-python==4.6.0.66
+keras==2.6.0
+easygui==0.98.3
+pillow==9.2.0
+pygame==2.1.2
+gtts==2.2.4
+pyaudio==0.2.11
+keras==2.6.0
+tensorflow==2.10.0
